@@ -1,13 +1,11 @@
 ADAM MATTHEW STEINBERGER
 Wake Forest, NC | +1-864-517-4117 | adam.steinberger@icloud.com
-linkedin.com/in/steinbergeradam | github.com/adamsteinberger
+linkedin.com/in/realadammatthew | github.com/realadammatthew
 
 SUMMARY
-
 Certified ScrumMaster and Senior Software Engineer with extensive experience in designing, developing, and launching transformative software solutions in the finance sector. Proven leader in defining product roadmaps, mentoring development teams, and driving agile methodologies to accelerate software delivery. Adept at architecting scalable systems, optimizing integrations, and implementing cutting-edge technologies to enhance business efficiency and maintain a competitive edge. Skilled in Python, JavaScript, .NET, NestJS, and cloud-based solutions, with a strong focus on automation, system modernization, and high-quality engineering practices.
 
 SUMMARY OF SKILLS
-
 Languages & Frameworks: JavaScript, Python, C#, NestJS, Flask, WebAPI
 Databases: PostgreSQL, SQL Server, Snowflake
 Tools & Platforms: Azure, AWS
@@ -15,8 +13,12 @@ Methodologies: Scrum, Leadership, Entrepreneurship, Web Development
 
 PROFESSIONAL EXPERIENCE
 
+Humbleberger Software | Wake Forest, NC
+Senior Software Engineer | 03/2025 - Present
+• Software Consulting Firm in Wake Forest, NC, USA.
+
 Lima One Capital | Greenville, SC
-Senior Software Engineer | 05/2023 - Present
+Senior Software Engineer | 05/2023 - 02/2025
 • Led Python & JavaScript integrations using APIs, Webhooks, and Job Schedulers.
 • Redesigned an enterprise software suite with NestJS microservices (gRPC, REST) & PostgreSQL.
 • Migrated legacy Mulesoft APIs to NestJS, improving system efficiency.
@@ -82,5 +84,5 @@ Junior Software Engineer | 07/2013 - 03/2015
 • Built a C# interface to automatically process reports on quote submissions, streamlining agent workflows.
 
 EDUCATION & CERTIFICATIONS
- • Bachelor of Arts in Computer Science | Skidmore College, Saratoga Springs, NY (2012)
- • Certified ScrumMaster | ScrumAlliance (2021)
+• Bachelor of Arts in Computer Science | Skidmore College, Saratoga Springs, NY (2012)
+• Certified ScrumMaster | ScrumAlliance (2021)
