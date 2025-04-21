@@ -1,0 +1,88 @@
+ADAM MATTHEW STEINBERGER
+Wake Forest, NC | +1-864-517-4117 | adam.steinberger@icloud.com
+linkedin.com/in/realadammatthew | github.com/realadammatthew
+
+SUMMARY
+Certified ScrumMaster and Senior Software Engineer with extensive experience in designing, developing, and launching transformative software solutions in the finance sector. Proven leader in defining product roadmaps, mentoring development teams, and driving agile methodologies to accelerate software delivery. Adept at architecting scalable systems, optimizing integrations, and implementing cutting-edge technologies to enhance business efficiency and maintain a competitive edge. Skilled in Python, JavaScript, .NET, NestJS, and cloud-based solutions, with a strong focus on automation, system modernization, and high-quality engineering practices.
+
+SUMMARY OF SKILLS
+Languages & Frameworks: JavaScript, Python, C#, NestJS, Flask, WebAPI
+Databases: PostgreSQL, SQL Server, Snowflake
+Tools & Platforms: Azure, AWS
+Methodologies: Scrum, Leadership, Entrepreneurship, Web Development
+
+PROFESSIONAL EXPERIENCE
+
+Adam Matthew Steinberger LLC | Wake Forest, NC
+Senior Software Engineering Consultant | 03/2025 - Present
+• Software Consulting Firm in Wake Forest, NC, USA.
+
+Lima One Capital | Greenville, SC
+Senior Software Engineer | 05/2023 - 02/2025
+• Led Python & JavaScript integrations using APIs, Webhooks, and Job Schedulers.
+• Redesigned an enterprise software suite with NestJS microservices (gRPC, REST) & PostgreSQL.
+• Migrated legacy Mulesoft APIs to NestJS, improving system efficiency.
+• Led .NET & ReactJS development for a mortgage broker platform.
+• Built HubSpot Sync, automating SharePoint & HubSpot data flow for marketing.
+• Developed Elphi ETL, capturing & tracking Elphi data in Snowflake via webhook.
+• Integrated HouseCanary property data into Snowflake for real-time accessibility.
+• Automated Paylocity Sync, logging HR changes into Halo ITSM.
+• Created Snow Portal, a job scheduling system for Snowflake (Alteryx alternative).
+• Designed and implemented PE Microservices, including Nest-based authentication & logging solutions.
+• Prototyped the PE Next Web App, a modern Next.js UI for the Pricing Engine.
+• Refactored Salesforce Integration using NestJS for improved reliability.
+• Developed the PE Credco API, generating credit reports within the Pricing Engine.
+• Implemented the PE Nightly Cron & Scheduler, automating database operations.
+• Explored DBT for Snowflake transformations & version control in a proof of concept.
+
+Transcat, Inc. | Rochester, NY
+Senior Software Engineer | 04/2022 - 01/2023
+• Led a team of two junior developers, mentoring & guiding successful project deliveries in a fast-paced environment.
+• Championed best practices to maintain high software quality & foster team growth.
+• Built a React web app with SQL Server to track lab equipment calibrations.
+• Developed C# .NET Web APIs with NUnit tests, integrating internal systems.
+• Collaborated with external vendors to enhance the company’s Magento website.
+• Maintained & improved an existing VB.NET calibration system.
+
+LeaseTrack, Inc. | Latham, NY
+Senior Software Engineer | 06/2021 - 04/2022
+• Built a machine learning tool using Python & Amazon Textract, automating key data extraction from insurance documents & accelerating CRM workflows.
+• Led end-to-end development, from technical design to implementation.
+• Delivered accurate project estimates & managed the full software lifecycle.
+• Developed a document annotation system in Java Spring Boot & Annotorious, streamlining ML model training for domain experts.
+
+Akmazio LLC | Albany, NY
+Senior Software Engineer | 05/2020 - 05/2021
+• Led a team as Scrum Master, facilitating sprints, stand-ups, sprint planning, and retrospectives.
+• Designed & developed Flouriish, a mobile networking platform connecting financial advisors with small business leads.
+• Engaged 12+ financial advisors & business owners for beta testing pre-launch.
+• Built & implemented MS SQL database architecture and a C# Web API to power the React Native frontend.
+• Standardized server infrastructure using DigitalOcean, Cloudflare, Ubuntu, .NET Core, GitHub, & custom bash scripting.
+
+Bestpass, Inc. | Albany, NY
+Software Engineer | 09/2019 - 04/2020
+• Actively contributed to Scrum processes, participating in sprints & ceremonies.
+• Designed & implemented high-quality software architecture, prioritizing & executing tasks across the SDLC.
+• Developed a toll bill consolidation system for trucking companies, organizing costs by cost center.
+• Enhanced and maintained a C# MVC & Knockout.js web app, along with MS SQL stored procedures.
+• Improved legacy code quality by integrating automated unit tests to boost code coverage.
+
+New York State Insurance Fund | Albany, NY
+Software Engineer | 03/2015 - 08/2019
+• Improved system quality by identifying issues, standardizing processes, and developing SOPs.
+• Designed and implemented system improvements, optimizing performance and maintainability.
+• Maintained and enhanced existing codebases, collaborating on technical designs.
+• Trained junior developers in C# MVC, HTML, CSS, JavaScript, Bootstrap, and jQuery.
+• Migrated a VB6 project to C# MVC, preserving UI/UX to eliminate retraining.
+• Refactored an Oracle PL/SQL EDI system, introducing decision tree-driven business logic.
+• Automated a code production process, reducing task completion time from 6-8 weeks to 2-3 minutes.
+
+Town & Country Computer Services | Schenectady, NY
+Junior Software Engineer | 07/2013 - 03/2015
+• Developed a C# ASP.NET MVC3 tool for insurance agents to submit applications online, eliminating manual quote processing.
+• Implemented a C# Web Service to automate insurance quote ratings, enabling agents to appraise homeowner policies from any device.
+• Built a C# interface to automatically process reports on quote submissions, streamlining agent workflows.
+
+EDUCATION & CERTIFICATIONS
+• Bachelor of Arts in Computer Science | Skidmore College, Saratoga Springs, NY (2012)
+• Certified ScrumMaster | ScrumAlliance (2021)
