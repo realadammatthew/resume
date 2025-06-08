@@ -1,8 +1,8 @@
 # Adam Matthew Steinberger
 
-📍Wake Forest, NC USA |📱[+1-864-517-4117](tel:+18645174117) | 📪[adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
+📍 Wake Forest, NC USA |📱 [+1-864-517-4117](tel:+18645174117) | 📪 [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
 
-GitHub: [@realadammatthew](https://github.com/realadammatthew) | X/Twitter: [@realadammatthew](https://x.com/realadammatthew)
+:octocat: [@realadammatthew](https://github.com/realadammatthew) | 𝕏 [@realadammatthew](https://x.com/realadammatthew)
 
 ### SUMMARY
 
