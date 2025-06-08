@@ -1,21 +1,19 @@
 # Adam Matthew Steinberger
-
-## English Resume
-
-**ADAM MATTHEW STEINBERGER**  
-Wake Forest, NC | +1-864-517-4117 | [adam.steinberger@icloud.com](mailto:adam.steinberger@icloud.com)  
-[LinkedIn](https://www.linkedin.com/in/realadammatthew/) | [GitHub](https://github.com/realadammatthew/resume)
+📍Wake Forest, NC USA |📱[+1-864-517-4117](tel:+18645174117) | 📪[adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
+[GitHub](https://github.com/realadammatthew) | [X/Twitter](https://x.com/realadammatthew)
 
 ### SUMMARY
 
-Certified ScrumMaster and Senior Software Engineer with extensive experience in designing, developing, and launching transformative software solutions in the finance sector. Proven leader in defining product roadmaps, mentoring development teams, and driving agile methodologies to accelerate software delivery. Adept at architecting scalable systems, optimizing integrations, and implementing cutting-edge technologies to enhance business efficiency and maintain a competitive edge. Skilled in Python, JavaScript, .NET, NestJS, and cloud-based solutions, with a strong focus on automation, system modernization, and high-quality engineering practices.
+Senior Software Engineering Consultant and AI Developer with 12+ years of experience building secure, scalable systems across finance, AI, and privacy tech. I specialize in custom AI development---including self-hosted LLM APIs, RAG pipelines, and autonomous agents---and help clients transition away from Big Tech through decentralized, mission-aligned infrastructure. My work blends backend engineering, server administration, and cloud architecture (Python, JavaScript, .NET, Ubuntu, AWS/Azure) with a strong focus on automation, data ownership, and ethical software design. Whether launching private chatbots or hardening full-stack systems, I deliver thoughtful, resilient solutions tailored to modern privacy and AI demands.
 
 ### SUMMARY OF SKILLS
 
+- **AI & ML Tools:** Mistral, RAG, LoRA, n8n, vLLM, OpenWebUI, Prompt Engineering, Custom Instructions
 - **Languages & Frameworks:** JavaScript, Python, C#, NestJS, Flask, WebAPI
 - **Databases:** PostgreSQL, SQL Server, Snowflake
-- **Tools & Platforms:** Azure, AWS
-- **Methodologies:** Scrum, Leadership, Entrepreneurship, Web Development
+- **Cloud & Infrastructure:** Azure, AWS, DigitalOcean, Ubuntu Server, Docker, DNS, CI/CD pipelines
+- **Privacy & Deplatforming:** Proton, Ubuntu, GrapheneOS, LineageOS, System76, F-Droid/Aurora, Duck.ai, Warp
+- **Methodologies & Soft Skills:** Agile/Scrum, Consulting, Leadership, Entrepreneurship, Ethical & Privacy-First Tech
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -23,7 +21,17 @@ Certified ScrumMaster and Senior Software Engineer with extensive experience in 
 
 **Senior Software Engineering Consultant** | 03/2025 - Present
 
-- Software Consulting Firm in Wake Forest, NC, USA.
+- Architected and deployed a suite of private, OpenAI-compatible APIs and inference endpoints using Mistral-7B and custom RAG pipelines for secure, self-hosted chatbot solutions.
+- Implemented OpenAI-style instruction-tuning and prompt engineering workflows for fine-tuned and local models to meet specific client needs across industry sectors.
+- Developed web-based chat and automation tools using OpenWebUI and n8n, integrating local LLMs for autonomous workflows and client-facing applications.
+- Set up full-stack observability using Grafana and Prometheus to monitor AI infrastructure health, latency, and throughput.
+- Built and maintained decentralized server infrastructure for AI, messaging, email, and monitoring platforms using Ubuntu Server, Docker, and DNS-based routing across multiple domains.
+- Deployed, monitored, and maintained AI hosting stacks both in the cloud and on local hardware, with DNS-level integration and self-contained authentication.
+- Designed, hardened, and administered secure services including Postfix-based mail servers, Grafana dashboards, Ghost blogs, Matrix messaging (Element), and GPS tracking platforms.
+- Advised on and implemented comprehensive deplatforming strategies, replacing Big Tech dependencies with privacy-respecting alternatives such as Proton (mail, calendar), GrapheneOS (mobile), and System76/Linux hardware.
+- Supported open-source, ethical tech by prioritizing decentralization, user sovereignty, and mission-aligned infrastructure in all client-facing deployments.
+- Consulted on digital resilience and vendor independence for individuals, nonprofits, and small organizations with mission-aligned technology needs.
+- Developed pricing models and engagement strategies for AI chatbot projects ranging from $10K to $35K+.
 
 #### Lima One Capital | Greenville, SC
 
@@ -49,152 +57,47 @@ Certified ScrumMaster and Senior Software Engineer with extensive experience in 
 
 **Senior Software Engineer** | 04/2022 - 01/2023
 
-- Led a team of two junior developers, mentoring & guiding successful project deliveries in a fast-paced environment.
-- Championed best practices to maintain high software quality & foster team growth.
-- Built a React web app with SQL Server to track lab equipment calibrations.
-- Developed C# .NET Web APIs with NUnit tests, integrating internal systems.
-- Collaborated with external vendors to enhance the company’s Magento website.
-- Maintained & improved an existing VB.NET calibration system.
+- Led a small team to deliver .NET Web APIs and a React app for lab equipment calibration.
+- Integrated internal systems and improved legacy codebases, including a VB.NET system.
+- Enhanced a Magento-based site in collaboration with external vendors.
 
 #### LeaseTrack, Inc. | Latham, NY
 
 **Senior Software Engineer** | 06/2021 - 04/2022
 
-- Built a machine learning tool using Python & Amazon Textract, automating key data extraction from insurance documents & accelerating CRM workflows.
-- Led end-to-end development, from technical design to implementation.
-- Delivered accurate project estimates & managed the full software lifecycle.
-- Developed a document annotation system in Java Spring Boot & Annotorious, streamlining ML model training for domain experts.
+- Built Python + Textract ML tools to automate insurance document parsing.
+- Developed a Java Spring Boot annotation system to streamline ML training.
+- Delivered full lifecycle development, estimation, and deployment.
 
 #### Akmazio LLC | Albany, NY
 
 **Senior Software Engineer** | 05/2020 - 05/2021
 
-- Led a team as Scrum Master, facilitating sprints, stand-ups, sprint planning, and retrospectives.
-- Designed & developed Flouriish, a mobile networking platform connecting financial advisors with small business leads.
-- Engaged 12+ financial advisors & business owners for beta testing pre-launch.
-- Built & implemented MS SQL database architecture and a C# Web API to power the React Native frontend.
-- Standardized server infrastructure using DigitalOcean, Cloudflare, Ubuntu, .NET Core, GitHub, & custom bash scripting.
+- Led Agile sprints and dev team for a mobile networking platform.
+- Built backend in C#/.NET with MS SQL; deployed to DigitalOcean with custom scripting.
+- Supported pre-launch testing with 12+ industry users.
 
 #### Bestpass, Inc. | Albany, NY
 
 **Software Engineer** | 09/2019 - 04/2020
 
-- Actively contributed to Scrum processes, participating in sprints & ceremonies.
-- Designed & implemented high-quality software architecture, prioritizing & executing tasks across the SDLC.
-- Developed a toll bill consolidation system for trucking companies, organizing costs by cost center.
-- Enhanced and maintained a C# MVC & Knockout.js web app, along with MS SQL stored procedures.
-- Improved legacy code quality by integrating automated unit tests to boost code coverage.
+- Delivered a toll billing system and modernized legacy code using C# MVC and Knockout.js.
+- Introduced automated unit tests to improve maintainability and coverage.
 
 #### New York State Insurance Fund | Albany, NY
 
 **Software Engineer** | 03/2015 - 08/2019
 
-- Improved system quality by identifying issues, standardizing processes, and developing SOPs.
-- Designed and implemented system improvements, optimizing performance and maintainability.
-- Maintained and enhanced existing codebases, collaborating on technical designs.
-- Trained junior developers in C# MVC, HTML, CSS, JavaScript, Bootstrap, and jQuery.
-- Migrated a VB6 project to C# MVC, preserving UI/UX to eliminate retraining.
-- Refactored an Oracle PL/SQL EDI system, introducing decision tree-driven business logic.
-- Automated a code production process, reducing task completion time from 6-8 weeks to 2-3 minutes.
+- Migrated legacy systems (VB6 to C# MVC), automated code workflows, and mentored junior devs.
+- Refactored Oracle EDI systems and standardized engineering processes across teams.
 
 #### Town & Country Computer Services | Schenectady, NY
 
 **Junior Software Engineer** | 07/2013 - 03/2015
 
-- Developed a C# ASP.NET MVC3 tool for insurance agents to submit applications online, eliminating manual quote processing.
-- Implemented a C# Web Service to automate insurance quote ratings, enabling agents to appraise homeowner policies from any device.
-- Built a C# interface to automatically process reports on quote submissions, streamlining agent workflows.
+- Built web tools and services in C# ASP.NET for insurance quoting, rating, and reporting.
 
 ### EDUCATION & CERTIFICATIONS
 
 - **Bachelor of Arts in Computer Science** | Skidmore College, Saratoga Springs, NY (2012)
 - **Certified ScrumMaster** | ScrumAlliance (2021)
-
----
-
-## Hebrew Resume
-
-**אדם מתיו סטיינברגר**  
-וֵייק פוֹרֶסְט, צפון קרוליינה | +1-864-517-4117 | [adam.steinberger@icloud.com](mailto:adam.steinberger@icloud.com)  
-[LinkedIn](https://www.linkedin.com/in/realadammatthew/) | [GitHub](https://github.com/realadammatthew/resume)
-
-### תקציר מקצועי
-
-מהנדס תוכנה בכיר ומנהל סְקְרָם מוסמך עם ניסיון עשיר בפיתוח מערכות תוכנה מורכבות, אוטומציה של תהליכים ואינטגרציה של שירותים מבוססי ענן. בעל ניסיון מוכח בארכיטקטורת מערכות מבוזרות, פיתוח מיקרו-שירותים, ושיפור ביצועים ארגוניים באמצעות פתרונות טכנולוגיים חדשניים. מיומן בפיתוח ב-Python, JavaScript, C#, NestJS ובסביבות ענן כגון AWS ו-Azure.
-
-### מיומנויות טכניות
-
-- תכנות ופיתוח: JavaScript (React, Node.js, NestJS), Python, C#, Flask, WebAPI
-- בסיסי נתונים: PostgreSQL, SQL Server, Snowflake
-- סביבות ענן: AWS, Azure
-- מתודולוגיות עבודה: Agile/Scrum, DevOps, CI/CD
-
-### ניסיון מקצועי
-
-#### Adam Matthew Steinberger LLC | וֵייק פוֹרֶסְט, צפון קרוליינה
-
-**יועץ בכיר להנדסת תוכנה** | 2025 - הווה
-
-- מתן שירותי ייעוץ ופיתוח תוכנה לסטארטאפים וחברות הייטק.
-
-#### Lima One Capital | גרינוויל, דרום קרוליינה
-
-**מהנדס תוכנה בכיר** | 2023 - 2025
-
-- פיתוח והובלת אינטגרציות Python ו-JavaScript עם APIs, Webhooks ומתזמני משימות.
-- בניית מערכת מבוזרת עם NestJS, gRPC ו-PostgreSQL.
-- העברת שירותי MuleSoft ישנים ל-NestJS לשיפור ביצועים.
-- פיתוח מערכת תיווך משכנתאות מבוססת .NET ו-ReactJS.
-- בניית HubSpot Sync לאוטומציה בין SharePoint ו-HubSpot.
-- יצירת פלטפורמת Job Scheduling עבור Snowflake (אלטרנטיבה ל-Alteryx).
-- אינטגרציה של נתוני HouseCanary ו-Elphi לתוך Snowflake לנגישות בזמן אמת.
-
-#### Transcat | רוצ’סטר, ניו יורק
-
-**מהנדס תוכנה בכיר** | 2022 - 2023
-
-- הובלת צוות של שני מפתחים צעירים והנחייתם להצלחה בפרויקטים מורכבים.
-- פיתוח אפליקציית ווב מתקדמת ב-React עם SQL Server לניהול כיול ציוד מעבדתי.
-- פיתוח ממשקי API ב-.NET עם בדיקות יחידה לשיפור ביצועים ואמינות המערכת.
-
-#### LeaseTrack | לת’ם, ניו יורק
-
-**מהנדס תוכנה בכיר** | 2021 - 2022
-
-- פיתוח כלי למידת מכונה ב-Python עם Amazon Textract לעיבוד מסמכי ביטוח.
-- יצירת מערכת אנוטציה ב-Java Spring Boot לאימון מודלים חכמים.
-
-#### Akmazio | אולבני, ניו יורק
-
-**מהנדס תוכנה בכיר** | 2020 - 2021
-
-- ניהול צוות כמנהל סְקְרָם, כולל תכנון וניהול ספרינטים.
-- פיתוח Flouriish, פלטפורמת נטוורקינג פיננסית מבוססת מובייל.
-- תכנון ארכיטקטורת בסיס הנתונים ב-MS SQL ופיתוח Web API ב-#C.
-
-#### Bestpass | אולבני, ניו יורק
-
-**מהנדס תוכנה** | 2019 - 2020
-
-- פיתוח מערכת לניהול עלויות אגרות כבישים עבור חברות הובלה.
-- שיפור איכות קוד והוספת בדיקות יחידה אוטומטיות לשיפור אמינות המערכת.
-
-#### New York State Insurance Fund | אולבני, ניו יורק
-
-**מהנדס תוכנה** | 2015 - 2019
-
-- מעבר מערכת VB6 ישנה ל-C# MVC תוך שמירה על חוויית משתמש עקבית.
-- שיפור מערכת Oracle PL/SQL EDI עם לוגיקת קבלת החלטות מתקדמת.
-- הדרכת מפתחים צעירים בטכנולוגיות C# MVC, JavaScript, Bootstrap ו-jQuery
-
-#### Town & Country Computer Services | שנקטדי, ניו יורק
-
-**מהנדס תוכנה צעיר** | 2013 - 2015
-
-- פיתוח מערכת ASP.NET MVC3 לאוטומציה של הצעות ביטוח דיגיטליות.
-- יצירת שירות אינטרנט להערכת פוליסות ביטוח לשיפור היעילות העסקית של הסוכנים.
-
-### השכלה והסמכות
-
-- תואר ראשון במדעי המחשב | Skidmore College
-- מנהל סְקְרָם מוסמך | ScrumAlliance
