@@ -1,6 +1,6 @@
 # Adam Matthew Steinberger
 
-📍 [Wake Forest, NC USA](https://www.openstreetmap.org/relation/179707) |📱 [+1-864-517-4117](tel:+18645174117) | 📪 [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
+📍 [Wake Forest, NC USA](https://www.openstreetmap.org/relation/179707) |📱 [+1-864-517-4117](tel:+18645174117) | 📪 [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com) | 💼 [Hire me](https://hire.adam.matthewsteinberger.com) | 💬 [Chat now](https://chat.adam.matthewsteinberger.com)
 
 :octocat: [@realadammatthew](https://github.com/realadammatthew) | 𝕏 [@realadammatthew](https://x.com/realadammatthew) | ☕ [@realadammatthew](https://coff.ee/realadammatthew) | 📅 [@realadammatthew](https://tidycal.com/realadammatthew)
 
