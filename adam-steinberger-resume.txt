@@ -1,7 +1,7 @@
 Adam Matthew Steinberger
 Wake Forest, NC USA | +1-864-517-4117 | adam@matthewsteinberger.com
-https://hire.adam.matthewsteinberger.com | https://chat.adam.matthewsteinberger.com
 github.com/realadammatthew | x.com/realadammatthew | coff.ee/realadammatthew | tidycal.com/realadammatthew
+https://hire.adam.matthewsteinberger.com | https://chat.adam.matthewsteinberger.com
 
 SUMMARY
 Senior Software Engineering Consultant and AI Developer with 12+ years of experience architecting and building secure, scalable systems across AI, finance, and privacy-focused technologies. I specialize in developing custom Retrieval-Augmented Generation (RAG) systems using self-hosted or cloud-based LLMs, containerized microservices, and event-driven architectures. My expertise spans full-stack AI infrastructure, from prompt engineering and inference APIs to observability, orchestration, and autonomous agent workflows. I help clients deploy decentralized, mission-aligned infrastructure rooted in privacy, resilience, and open-source principles. With a strong foundation in backend engineering, DevOps, and cloud-native technologies (Python, JavaScript, .NET, Docker, Ubuntu, AWS/Azure), I deliver modular, production-ready AI platforms tailored for modern agentic and knowledge-integrated use cases.
