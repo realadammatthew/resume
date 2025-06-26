@@ -1,32 +1,31 @@
 Adam Matthew Steinberger
-Wake Forest, NC | +1-864-517-4117 | adam@matthewsteinberger.com
-github.com/realadammatthew | x.com/realadammatthew | coff.ee/realadammatthew
+Wake Forest, NC USA | +1-864-517-4117 | adam@matthewsteinberger.com
+github.com/realadammatthew | x.com/realadammatthew | coff.ee/realadammatthew | tidycal.com/realadammatthew
 
 SUMMARY
-Senior Software Engineering Consultant and AI Developer with 12+ years of experience building secure, scalable systems across finance, AI, and privacy tech. I specialize in custom AI development---including self-hosted LLM APIs, RAG pipelines, and autonomous agents---and help clients transition away from Big Tech through decentralized, mission-aligned infrastructure. My work blends backend engineering, server administration, and cloud architecture (Python, JavaScript, .NET, Ubuntu, AWS/Azure) with a strong focus on automation, data ownership, and ethical software design. Whether launching private chatbots or hardening full-stack systems, I deliver thoughtful, resilient solutions tailored to modern privacy and AI demands.
+Senior Software Engineering Consultant and AI Developer with 12+ years of experience architecting and building secure, scalable systems across AI, finance, and privacy-focused technologies. I specialize in developing custom Retrieval-Augmented Generation (RAG) systems using self-hosted or cloud-based LLMs, containerized microservices, and event-driven architectures. My expertise spans full-stack AI infrastructure, from prompt engineering and inference APIs to observability, orchestration, and autonomous agent workflows. I help clients deploy decentralized, mission-aligned infrastructure rooted in privacy, resilience, and open-source principles. With a strong foundation in backend engineering, DevOps, and cloud-native technologies (Python, JavaScript, .NET, Docker, Ubuntu, AWS/Azure), I deliver modular, production-ready AI platforms tailored for modern agentic and knowledge-integrated use cases.
 
 SUMMARY OF SKILLS
 AI & ML Tools: Mistral, RAG, LoRA, n8n, vLLM, OpenWebUI, Prompt Engineering, Custom Instructions
 Languages & Frameworks: JavaScript, Python, C#, NestJS, Flask, WebAPI
 Databases: PostgreSQL, SQL Server, Snowflake
-Cloud & Infrastructure: Azure, AWS, DigitalOcean, Ubuntu Server, Docker, DNS, CI/CD pipelines
-Privacy & Deplatforming: Proton, Ubuntu, GrapheneOS, LineageOS, System76, F-Droid/Aurora, Duck.ai, Warp
-Methodologies & Soft Skills: Agile/Scrum, Consulting, Leadership, Entrepreneurship, Ethical & Privacy-First Tech
+Cloud & Infrastructure: Azure, AWS, Ubuntu Server, DigitalOcean, Docker, DNS, CI/CD pipelines
+Privacy & Deplatforming: Proton, Ubuntu, GrapheneOS, LineageOS, System76, F-Droid/Aurora, Warp, Cursor
+Methodologies & Soft Skills: Agile/Scrum, Consulting, Leadership, Entrepreneurship, Privacy-First Tech
 
 PROFESSIONAL EXPERIENCE
 Adam Matthew Steinberger LLC | Wake Forest, NC
 Senior Software Engineering Consultant | 03/2025 - Present
-• Architected and deployed a suite of private, OpenAI-compatible APIs and inference endpoints using Mistral-7B and custom RAG pipelines for secure, self-hosted chatbot solutions.
-• Implemented OpenAI-style instruction-tuning and prompt engineering workflows for fine-tuned and local models to meet specific client needs across industry sectors.
-• Developed web-based chat and automation tools using OpenWebUI and n8n, integrating local LLMs for autonomous workflows and client-facing applications.
-• Set up full-stack observability using Grafana and Prometheus to monitor AI infrastructure health, latency, and throughput.
-• Built and maintained decentralized server infrastructure for AI, messaging, email, and monitoring platforms using Ubuntu Server, Docker, and DNS-based routing across multiple domains.
-• Deployed, monitored, and maintained AI hosting stacks both in the cloud and on local hardware, with DNS-level integration and self-contained authentication.
-• Designed, hardened, and administered secure services including Postfix-based mail servers, Grafana dashboards, Ghost blogs, Matrix messaging (Element), and GPS tracking platforms.
-• Advised on and implemented comprehensive deplatforming strategies, replacing Big Tech dependencies with privacy-respecting alternatives such as Proton (mail, calendar), GrapheneOS (mobile), and System76/Linux hardware.
-• Supported open-source, ethical tech by prioritizing decentralization, user sovereignty, and mission-aligned infrastructure in all client-facing deployments.
-• Consulted on digital resilience and vendor independence for individuals, nonprofits, and small organizations with mission-aligned technology needs.
-• Developed pricing models and engagement strategies for AI chatbot projects ranging from $10K to $35K+.
+> Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B)
+• Built a Retrieval-Augmented Generation (RAG) system using self-hosted Mistral-7B and FAISS for vector search, enabling privacy-first, context-aware chatbots.
+• Created an OpenAI-compatible API using vLLM connected to the custom RAG pipeline, allowing seamless integration with additional AI tools and client applications.
+• Set up observability with Grafana and Prometheus to monitor token throughput, latency, and resource usage across distributed AI services.
+• Designed a containerized microservices architecture using Docker and CI/CD pipelines, deployed across Netlify and a bare-metal server for scalable, modular infrastructure.
+• Implemented real-time chat via OpenWebUI and orchestrated backend automation using n8n to support agent workflows and scheduled tasks.
+> Custom Cloud-Based RAG Chatbot
+• Built a separate Retrieval-Augmented Generation (RAG) system using a cloud-hosted GPT and JSON-based document storage, an instruction-alignment layer, and an integrated API-driven web search module.
+• Developed a professional, responsive web interface with clean UX and modern styling to ensure a visually engaging user experience.
+• Optimized content, metadata, and chatbot behavior specifically for sales and engagement use cases, including custom instructions and SEO targeting for chatbot services.
 
 Lima One Capital | Greenville, SC
 Senior Software Engineer | 05/2023 - 02/2025
