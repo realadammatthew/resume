@@ -1,5 +1,5 @@
 Adam Matthew Steinberger
-Wake Forest, NC USA | +1-864-517-4117 | adam@matthewsteinberger.com
+Greenville, SC USA | +1-864-517-4117 | adam@matthewsteinberger.com
 linkedin.com/in/realadammatthew | github.com/realadammatthew | x.com/realadammatthew | tidycal.com/realadammatthew
 https://hire.adam.matthewsteinberger.com | https://chat.adam.matthewsteinberger.com
 
@@ -15,7 +15,7 @@ Privacy & Deplatforming: Proton, Ubuntu, GrapheneOS, LineageOS, System76, F-Droi
 Methodologies & Soft Skills: Agile/Scrum, Consulting, Leadership, Entrepreneurship, Privacy-First Tech
 
 PROFESSIONAL EXPERIENCE
-Adam Matthew Steinberger LLC | Wake Forest, NC
+Adam Matthew Steinberger LLC | Greenville, SC
 Senior Software Engineering Consultant | 03/2025 - Present
 > Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B)
 • Built a Retrieval-Augmented Generation (RAG) system using self-hosted Mistral-7B and FAISS for vector search, enabling privacy-first, context-aware chatbots.
