@@ -8,11 +8,11 @@
 
 ### SUMMARY
 
-**Senior Software Engineering Consultant** and **AI Developer** with **12+ years of experience** architecting and building **secure**, **scalable systems** across AI, finance, and privacy-focused technologies. I specialize in developing custom **Retrieval-Augmented Generation** (RAG) systems using **self-hosted** or **cloud-based** LLMs, containerized **microservices**, and event-driven architectures. My expertise spans **full-stack** AI infrastructure, from **prompt engineering** and **inference APIs** to observability, orchestration, and **autonomous agent workflows**. I help clients deploy decentralized, mission-aligned infrastructure rooted in **privacy**, **resilience**, and open-source principles. With a strong foundation in **backend engineering**, **DevOps**, and **cloud-native** technologies (Python, JavaScript, .NET, Docker, Ubuntu, AWS/Azure), I deliver **modular**, **production-ready** AI platforms tailored for **modern agentic** and **knowledge-integrated** use cases.
+**Staff Software Engineer** and **AI Solutions Architect** with **12+ years of experience** architecting and building **secure**, **scalable systems** across AI, finance, and privacy-focused technologies. I specialize in developing custom **Retrieval-Augmented Generation** (RAG) systems using **self-hosted** or **cloud-based** LLMs, containerized **microservices**, and event-driven architectures. My expertise spans **full-stack** AI infrastructure, from **prompt engineering** and **inference APIs** to observability, orchestration, and **autonomous agent workflows**. I help clients deploy decentralized, mission-aligned infrastructure rooted in **privacy**, **resilience**, and **open-source principles**. With a strong foundation in **backend engineering**, **DevOps**, and **cloud-native** technologies (Python, JavaScript, .NET, Docker, Ubuntu, AWS/Azure), I deliver **modular**, **production-ready** AI platforms tailored for **modern agentic** and **knowledge-integrated** use cases.
 
 ### SUMMARY OF SKILLS
 
-- **AI & ML Tools:** _Mistral_, _RAG_, LoRA, n8n, vLLM, OpenWebUI, Prompt Engineering, Custom Instructions
+- **AI & ML Tools:** _Mistral_, _RAG_, ChatGPT, Claude, Gemini, Llama, Prompt/Context Engineering, AI Agents
 - **Languages & Frameworks:** _JavaScript_, _Python_, C#, NestJS, Flask, WebAPI
 - **Databases:** _PostgreSQL_, SQL Server, Snowflake
 - **Cloud & Infrastructure:** _Azure_, _AWS_, _Ubuntu Server_, DigitalOcean, Docker, DNS, CI/CD pipelines
@@ -23,7 +23,7 @@
 
 #### Adam Matthew Steinberger LLC | Greenville, SC
 
-**Senior Software Engineering Consultant** | 03/2025 - Present
+**Staff Software Engineer** | 03/2025 - Present
 
 _Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B)_
 
