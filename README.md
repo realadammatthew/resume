@@ -8,16 +8,17 @@
 
 ### SUMMARY
 
-**Staff Software Engineer** and **AI Solutions Architect** with **12+ years of experience** architecting and building **secure**, **scalable systems** across AI, finance, and privacy-focused technologies. I specialize in developing custom **Retrieval-Augmented Generation** (RAG) systems using **self-hosted** or **cloud-based** LLMs, containerized **microservices**, and event-driven architectures. My expertise spans **full-stack** AI infrastructure, from **prompt engineering** and **inference APIs** to observability, orchestration, and **autonomous agent workflows**. I help clients deploy decentralized, mission-aligned infrastructure rooted in **privacy**, **resilience**, and **open-source principles**. With a strong foundation in **backend engineering**, **DevOps**, and **cloud-native** technologies (Python, JavaScript, .NET, Docker, Ubuntu, AWS/Azure), I deliver **modular**, **production-ready** AI platforms tailored for **modern agentic** and **knowledge-integrated** use cases.
+**Staff Software Engineer** and **AI Solutions Architect** with **12+ years of experience** designing **secure**, **scalable systems** across AI, enterprise automation, and financial technology. I specialize in **end-to-end solution delivery**: from **process engineering** and **requirements analysis** to **architectural design**, **implementation**, and **team enablement**. My expertise includes building custom **Retrieval-Augmented Generation (RAG)** systems using **self-hosted** or **cloud-based LLMs**, designing **event-driven microservices** architectures, and creating **production-ready platforms** that integrate AI with enterprise systems like **Azure Service Bus**, **Microsoft Graph**, and **third-party APIs**. I excel at transforming complex business problems into **documented**, **executable solutions** that empower **junior and mid-level teams** to deliver independently. With deep technical foundations in **Python**, **JavaScript**, **.NET**, **Docker**, and **cloud infrastructure (Azure/AWS)**, I deliver **modular**, **turnkey systems** optimized for **automation**, **scalability**, and **long-term maintainability**.
 
 ### SUMMARY OF SKILLS
 
-- **AI & ML Tools:** _Mistral_, _RAG_, ChatGPT, Claude, Gemini, Llama, Prompt/Context Engineering, AI Agents
-- **Languages & Frameworks:** _JavaScript_, _Python_, C#, NestJS, Flask, WebAPI
-- **Databases:** _PostgreSQL_, SQL Server, Snowflake
-- **Cloud & Infrastructure:** _Azure_, _AWS_, _Ubuntu Server_, DigitalOcean, Docker, DNS, CI/CD pipelines
-- **Privacy & Deplatforming:** _Proton_, _Ubuntu_, GrapheneOS, LineageOS, System76, F-Droid/Aurora, Warp, Cursor
-- **Methodologies & Soft Skills:** _Agile/Scrum_, Consulting, Leadership, Entrepreneurship, Ethical & Privacy-First Tech
+- **AI & ML Tools:** RAG Architecture, Vector Databases, LLM Orchestration, ChatGPT, Claude, Prompt/Context Engineering, AI Agents
+- **Languages & Frameworks:** Python, JavaScript, C#, NestJS, Flask, .NET WebAPI, React, Next.js
+- **Databases & Data:** PostgreSQL, Snowflake, SQL Server, FAISS, Vector Stores
+- **Cloud & Infrastructure:** Azure (Service Bus, Functions, Storage), AWS, Docker, Ubuntu Server, CI/CD Pipelines, Microservices Architecture
+- **Integration & Automation:** Microsoft Graph API, REST/gRPC APIs, Webhooks, Job Schedulers, ETL Pipelines
+- **Methodologies & Soft Skills:** Process Engineering, Solutions Architecture, Technical Documentation, Agile/Scrum, Consulting, Team Enablement
+- **Privacy & Tooling:** Proton, Ubuntu, GrapheneOS, System76, Warp, Claude Code
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -25,16 +26,28 @@
 
 **Staff Software Engineer** | 03/2025 - Present
 
-_Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B)_
+_AI Payroll Processor (GPT-5) – Enterprise Client_
 
-- Built a **Retrieval-Augmented Generation** (RAG) system using **self-hosted Mistral-7B** and **FAISS** for vector search, enabling **privacy-first**, **context-aware chatbots**.
+- Led complete **project discovery and redesign** for an automated payroll processing system, transforming initial requirements into a **production-ready architecture** within **45 days**.
+- Applied **process engineering** methodologies to diagnose client pain points, analyze existing workflows, and deliver a **fully documented solution** including executive summary, architectural design, and technical specifications.
+- Designed an **Azure-based microservices architecture** using **Service Bus**, **RAG**, and **Onion Architecture** patterns to automate end-to-end payroll processing from document ingestion to ADP API integration.
+- Built a **Retrieval-Augmented Generation (RAG)** pipeline that scans **Outlook** and **SharePoint** data, stores it in a **vector database**, and uses **LLM-driven commands** to generate payroll data via **Excel automation** and **Microsoft Graph API**.
+- Implemented **multiple human-in-the-loop (HITL)** checkpoints and **LLM-powered anomaly detection** to ensure data accuracy and compliance throughout the payroll workflow.
+- Provisioned **Azure cloud resources**, created **boilerplate repositories**, and documented all **permissions**, **keys**, and **resource requirements** for seamless team onboarding.
+- Decomposed the entire project into a **comprehensive JIRA Scrum board** (Epics, Features, User Stories), enabling **junior developers** to execute independently with minimal oversight.
+- Delivered a **turnkey solution** designed for handoff, empowering client teams to build and maintain the system cost-effectively without ongoing senior-level dependency.
+
+_Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B) – Non-Profit Client_
+
+- Built a **Retrieval-Augmented Generation (RAG)** system using **self-hosted Mistral-7B** and **FAISS** for vector search, enabling **privacy-first**, **context-aware chatbots**.
 - Created an **OpenAI-compatible API** using **vLLM** connected to the custom RAG pipeline, allowing seamless integration with additional AI tools and client applications.
 - Set up observability with **Grafana** and **Prometheus** to monitor token throughput, latency, and resource usage across distributed AI services.
-- Designed a containerized **microservices architecture** using **Docker** and **CI/CD** pipelines, deployed across **Netlify** and a **bare-metal server** for scalable, modular infrastructure.
+- Designed a containerized **microservices architecture** using **Docker** and **CI/CD pipelines**, deployed across **Netlify** and a **bare-metal server** for scalable, modular infrastructure.
 - Implemented **real-time chat** via **OpenWebUI** and orchestrated **backend automation** using **n8n** to support agent workflows and scheduled tasks.
 
-_Custom Cloud-Based RAG Chatbot_
-- Built a separate **Retrieval-Augmented Generation** (RAG) system using a **cloud-hosted GPT** and JSON-based **document storage**, an **instruction-alignment** layer, and an integrated API-driven **web search** module.
+_Custom Cloud-Based RAG Chatbot (Gemini) – Sales Agency Client_
+
+- Built a separate **Retrieval-Augmented Generation (RAG)** system using a **cloud-hosted GPT** and **JSON-based document storage**, an **instruction-alignment layer**, and an integrated **API-driven web search** module.
 - Developed a **professional**, **responsive web interface** with clean UX and modern styling to ensure a visually engaging user experience.
 - Optimized content, metadata, and chatbot behavior specifically for **sales** and **engagement** use cases, including **custom instructions** and **SEO targeting** for chatbot services.
 
@@ -42,65 +55,37 @@ _Custom Cloud-Based RAG Chatbot_
 
 **Senior Software Engineer** | 05/2023 - 02/2025
 
-- Led Python & JavaScript integrations using APIs, Webhooks, and Job Schedulers.
-- Redesigned an enterprise software suite with NestJS microservices (gRPC, REST) & PostgreSQL.
-- Migrated legacy Mulesoft APIs to NestJS, improving system efficiency.
-- Led .NET & ReactJS development for a mortgage broker platform.
-- Built HubSpot Sync, automating SharePoint & HubSpot data flow for marketing.
-- Developed Elphi ETL, capturing & tracking Elphi data in Snowflake via webhook.
-- Integrated HouseCanary property data into Snowflake for real-time accessibility.
-- Automated Paylocity Sync, logging HR changes into Halo ITSM.
-- Created Snow Portal, a job scheduling system for Snowflake (Alteryx alternative).
-- Designed and implemented PE Microservices, including Nest-based authentication & logging solutions.
-- Prototyped the PE Next Web App, a modern Next.js UI for the Pricing Engine.
-- Refactored Salesforce Integration using NestJS for improved reliability.
-- Developed the PE Credco API, generating credit reports within the Pricing Engine.
-- Implemented the PE Nightly Cron & Scheduler, automating database operations.
-- Explored DBT for Snowflake transformations & version control in a proof of concept.
+- Architected and delivered an **enterprise software suite** using **NestJS microservices** (gRPC, REST) with **PostgreSQL**, migrating legacy **Mulesoft APIs** and improving system efficiency.
+- Led **full-stack development** for a mortgage broker platform using **.NET** and **ReactJS**, including credit report integration and pricing engine APIs.
+- Built multiple **ETL pipelines** and **API integrations** connecting **HubSpot**, **SharePoint**, **Snowflake**, **Salesforce**, and third-party data providers for automated data flow across enterprise systems.
+- Developed **Snow Portal**, a custom job scheduling system for **Snowflake** as an **Alteryx alternative**, and implemented automated **HR-to-ITSM** workflows.
+- Prototyped modern UI initiatives and explored **DBT** for version-controlled data transformations.
 
-#### Transcat, Inc. | Rochester, NY
+### EARLY CAREER
 
-**Senior Software Engineer** | 04/2022 - 01/2023
+**Transcat, Inc.** – Senior Software Engineer (04/2022-01/2023)
 
-- Led a small team to deliver .NET Web APIs and a React app for lab equipment calibration.
-- Integrated internal systems and improved legacy codebases, including a VB.NET system.
-- Enhanced a Magento-based site in collaboration with external vendors.
+- Led team delivering .NET Web APIs and React app for lab equipment calibration; integrated internal systems and enhanced Magento-based e-commerce platform.
 
-#### LeaseTrack, Inc. | Latham, NY
+**LeaseTrack, Inc.** – Senior Software Engineer (06/2021-04/2022)
 
-**Senior Software Engineer** | 06/2021 - 04/2022
+- Built Python + AWS Textract ML tools for insurance document parsing; developed Java Spring Boot annotation system for ML training workflows.
 
-- Built Python + Textract ML tools to automate insurance document parsing.
-- Developed a Java Spring Boot annotation system to streamline ML training.
-- Delivered full lifecycle development, estimation, and deployment.
+**Akmazio LLC** – Senior Software Engineer (05/2020-05/2021)
 
-#### Akmazio LLC | Albany, NY
+- Led Agile development for mobile networking platform; built C#/.NET backend with MS SQL, deployed to DigitalOcean.
 
-**Senior Software Engineer** | 05/2020 - 05/2021
+**Bestpass, Inc.** – Software Engineer (09/2019-04/2020)
 
-- Led Agile sprints and dev team for a mobile networking platform.
-- Built backend in C#/.NET with MS SQL; deployed to DigitalOcean with custom scripting.
-- Supported pre-launch testing with 12+ industry users.
+- Delivered toll billing system using C# MVC and Knockout.js; introduced automated unit testing for legacy codebase.
 
-#### Bestpass, Inc. | Albany, NY
+**New York State Insurance Fund** – Software Engineer (03/2015-08/2019)
 
-**Software Engineer** | 09/2019 - 04/2020
+- Migrated legacy systems (VB6 to C# MVC), refactored Oracle EDI integrations, mentored junior developers, and standardized engineering processes.
 
-- Delivered a toll billing system and modernized legacy code using C# MVC and Knockout.js.
-- Introduced automated unit tests to improve maintainability and coverage.
+**Town & Country Computer Services** – Junior Software Engineer (07/2013-03/2015)
 
-#### New York State Insurance Fund | Albany, NY
-
-**Software Engineer** | 03/2015 - 08/2019
-
-- Migrated legacy systems (VB6 to C# MVC), automated code workflows, and mentored junior devs.
-- Refactored Oracle EDI systems and standardized engineering processes across teams.
-
-#### Town & Country Computer Services | Schenectady, NY
-
-**Junior Software Engineer** | 07/2013 - 03/2015
-
-- Built web tools and services in C# ASP.NET for insurance quoting, rating, and reporting.
+- Built C# ASP.NET web applications for insurance quoting, rating, and reporting systems.
 
 ### EDUCATION & CERTIFICATIONS
 
