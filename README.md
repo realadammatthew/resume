@@ -26,7 +26,7 @@
 
 **Staff Software Engineer** | 03/2025 - Present
 
-_AI Payroll Processor (GPT-5) – Enterprise Client_
+_AI Payroll Processor (GPT-5) - Enterprise Client_
 
 - Led complete **project discovery and redesign** for an automated payroll processing system, transforming initial requirements into a **production-ready architecture** within **45 days**.
 - Applied **process engineering** methodologies to diagnose client pain points, analyze existing workflows, and deliver a **fully documented solution** including executive summary, architectural design, and technical specifications.
@@ -37,7 +37,7 @@ _AI Payroll Processor (GPT-5) – Enterprise Client_
 - Decomposed the entire project into a **comprehensive JIRA Scrum board** (Epics, Features, User Stories), enabling **junior developers** to execute independently with minimal oversight.
 - Delivered a **turnkey solution** designed for handoff, empowering client teams to build and maintain the system cost-effectively without ongoing senior-level dependency.
 
-_Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B) – Non-Profit Client_
+_Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B) - Non-Profit Client_
 
 - Built a **Retrieval-Augmented Generation (RAG)** system using **self-hosted Mistral-7B** and **FAISS** for vector search, enabling **privacy-first**, **context-aware chatbots**.
 - Created an **OpenAI-compatible API** using **vLLM** connected to the custom RAG pipeline, allowing seamless integration with additional AI tools and client applications.
@@ -45,11 +45,27 @@ _Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B) – Non-Profit C
 - Designed a containerized **microservices architecture** using **Docker** and **CI/CD pipelines**, deployed across **Netlify** and a **bare-metal server** for scalable, modular infrastructure.
 - Implemented **real-time chat** via **OpenWebUI** and orchestrated **backend automation** using **n8n** to support agent workflows and scheduled tasks.
 
-_Custom Cloud-Based RAG Chatbot (Gemini) – Sales Agency Client_
+_Custom Cloud-Based RAG Chatbot (Gemini) - Sales Agency Client_
 
 - Built a separate **Retrieval-Augmented Generation (RAG)** system using a **cloud-hosted GPT** and **JSON-based document storage**, an **instruction-alignment layer**, and an integrated **API-driven web search** module.
 - Developed a **professional**, **responsive web interface** with clean UX and modern styling to ensure a visually engaging user experience.
 - Optimized content, metadata, and chatbot behavior specifically for **sales** and **engagement** use cases, including **custom instructions** and **SEO targeting** for chatbot services.
+
+_Push Notification System (Claude) - Non-Profit Client_
+- Delivered **production-ready Web Push notification** with 159/159 passing tests and 85.84% test coverage using AI-assisted TDD methodology.
+- Engineered **enterprise features** including timezone-aware scheduling (30-min delivery windows), intelligent message personalization based on user activity, and VAPID end-to-end encryption.
+- Implemented **automated subscription cleanup**, Row-Level Security policies, and serverless Edge Functions with **hourly cron scheduling**.
+- Built **comprehensive service worker** with mobile-optimized performance (<10s push delivery, <50ms activation) and PWA support.
+- Achieved **85% cost reduction vs. traditional development** (5 hours vs. 30+ hours) while maintaining production-grade quality standards.
+- Created **strategic AI workflow** combining codebase analysis, prompt engineering, and rigorous human code review for enterprise reliability.
+
+_Code Review & Architecture Redesign (Claude) - Non-Profit Client_
+- Conducted **comprehensive codebase analysis** using Claude Code full-scan followed by expert human review, assessing 190+ documentation files, 35 React pages, and 59K-line monolithic backend files.
+- Delivered **three strategic reports**: technical analysis (B- grade, 75/100), executive summary translating technical debt to ministry impact, and detailed Onion Architecture refactor plan with 400+ hour effort estimate.
+- **Identified critical issues** including 5% test coverage (vs. 60-80% industry standard), incomplete TypeScript adoption (40%), missing backend authentication middleware, and 16 manual maintenance scripts.
+- **Designed three-layer architecture** (Controllers/Services/Repositories) with TDD methodology, CI/CD pipeline strategy, and phased implementation roadmap targeting 80%+ test coverage.
+- **Created actionable four-phase refactor plan** prioritizing testing infrastructure, code organization, TypeScript migration, and automation to transform AI-built prototype into enterprise-grade system.
+- **Provided clear ROI case for hiring professional developers**, reframing technical debt as business risk requiring expert intervention to prevent costly complete rebuild.
 
 #### Lima One Capital | Greenville, SC
 
