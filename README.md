@@ -4,7 +4,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [@realadammatthew](https://linkedin.com/in/realadammatthew/) | :octocat: [@realadammatthew](https://github.com/realadammatthew) | 𝕏 [@realadammatthew](https://x.com/realadammatthew) | 📅 [@realadammatthew](https://tidycal.com/realadammatthew)
 
-💼 [Hire me](https://hire.adam.matthewsteinberger.com) | 💬 [Chat now](https://chat.adam.matthewsteinberger.com)
+💼 [Portfolio](https://hire.adam.matthewsteinberger.com) | 💬 [Demo](https://chat.adam.matthewsteinberger.com)
 
 ### SUMMARY
 
