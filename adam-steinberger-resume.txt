@@ -4,7 +4,7 @@ linkedin.com/in/realadammatthew | github.com/realadammatthew | x.com/realadammat
 https://hire.adam.matthewsteinberger.com | https://chat.adam.matthewsteinberger.com
 
 SUMMARY
-Staff Software Engineer and AI Solutions Architect with 12+ years of experience designing secure, scalable systems across AI, enterprise automation, and financial technology. I specialize in end-to-end solution delivery: from process engineering and requirements analysis to architectural design, implementation, and team enablement. My expertise includes building custom Retrieval-Augmented Generation (RAG) systems using self-hosted or cloud-based LLMs, designing event-driven microservices architectures, and creating production-ready platforms that integrate AI with enterprise systems like Azure Service Bus, Microsoft Graph, and third-party APIs. I excel at transforming complex business problems into documented, executable solutions that empower junior and mid-level teams to deliver independently. With deep technical foundations in Python, JavaScript, .NET, Docker, and cloud infrastructure (Azure/AWS), I deliver modular, turnkey systems optimized for automation, scalability, and long-term maintainability.
+Senior Azure and AI Development Engineer with 12+ years of experience designing secure, scalable systems across AI, enterprise automation, and financial technology. I specialize in end-to-end solution delivery: from process engineering and requirements analysis to architectural design, implementation, and team enablement. My expertise includes building custom Retrieval-Augmented Generation (RAG) systems using self-hosted or cloud-based LLMs, designing event-driven microservices architectures, and creating production-ready platforms that integrate AI with enterprise systems like Azure Service Bus, Microsoft Graph, and third-party APIs. I excel at transforming complex business problems into documented, executable solutions that empower junior and mid-level teams to deliver independently. With deep technical foundations in Python, JavaScript, .NET, Docker, and cloud infrastructure (Azure/AWS), I deliver modular, turnkey systems optimized for automation, scalability, and long-term maintainability.
 
 SUMMARY OF SKILLS
 AI & ML Tools: RAG Architecture, Vector Databases, LLM Orchestration, ChatGPT, Claude, Prompt/Context Engineering, AI Agents
@@ -16,8 +16,8 @@ Methodologies & Soft Skills: Process Engineering, Solutions Architecture, Techni
 Privacy & Tooling: Proton, Ubuntu, GrapheneOS, System76, Warp, Claude Code
 
 PROFESSIONAL EXPERIENCE
-Adam Matthew Steinberger LLC | Greenville, SC
-Staff Software Engineer | 03/2025 - Present
+The Vizius Group | Greenville, SC
+Senior Azure and AI Development Engineer | 09/2025 - Present
 > AI Payroll Processor (GPT-5) - Enterprise Client
 • Led complete project discovery and redesign for an automated payroll processing system, transforming initial requirements into a production-ready architecture within 45 days.
 • Applied process engineering methodologies to diagnose client pain points, analyze existing workflows, and deliver a fully documented solution including executive summary, architectural design, and technical specifications.
@@ -28,6 +28,8 @@ Staff Software Engineer | 03/2025 - Present
 • Decomposed the entire project into a comprehensive JIRA Scrum board (Epics, Features, User Stories), enabling junior developers to execute independently with minimal oversight. 
 • Delivered a turnkey solution designed for handoff, empowering client teams to build and maintain the system cost-effectively without ongoing senior-level dependency.
 
+Adam Matthew Steinberger LLC | Greenville, SC
+Senior Software Engineering Consultant | 03/2025 - 08/2025
 > Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B) - Non-Profit Client
 • Built a Retrieval-Augmented Generation (RAG) system using self-hosted Mistral-7B and FAISS for vector search, enabling privacy-first, context-aware chatbots.
 • Created an OpenAI-compatible API using vLLM connected to the custom RAG pipeline, allowing seamless integration with additional AI tools and client applications.

@@ -8,7 +8,7 @@
 
 ### SUMMARY
 
-**Staff Software Engineer** and **AI Solutions Architect** with **12+ years of experience** designing **secure**, **scalable systems** across AI, enterprise automation, and financial technology. I specialize in **end-to-end solution delivery**: from **process engineering** and **requirements analysis** to **architectural design**, **implementation**, and **team enablement**. My expertise includes building custom **Retrieval-Augmented Generation (RAG)** systems using **self-hosted** or **cloud-based LLMs**, designing **event-driven microservices** architectures, and creating **production-ready platforms** that integrate AI with enterprise systems like **Azure Service Bus**, **Microsoft Graph**, and **third-party APIs**. I excel at transforming complex business problems into **documented**, **executable solutions** that empower **junior and mid-level teams** to deliver independently. With deep technical foundations in **Python**, **JavaScript**, **.NET**, **Docker**, and **cloud infrastructure (Azure/AWS)**, I deliver **modular**, **turnkey systems** optimized for **automation**, **scalability**, and **long-term maintainability**.
+**Senior Azure and AI Development Engineer** with **12+ years of experience** designing **secure**, **scalable systems** across AI, enterprise automation, and financial technology. I specialize in **end-to-end solution delivery**: from **process engineering** and **requirements analysis** to **architectural design**, **implementation**, and **team enablement**. My expertise includes building custom **Retrieval-Augmented Generation (RAG)** systems using **self-hosted** or **cloud-based LLMs**, designing **event-driven microservices** architectures, and creating **production-ready platforms** that integrate AI with enterprise systems like **Azure Service Bus**, **Microsoft Graph**, and **third-party APIs**. I excel at transforming complex business problems into **documented**, **executable solutions** that empower **junior and mid-level teams** to deliver independently. With deep technical foundations in **Python**, **JavaScript**, **.NET**, **Docker**, and **cloud infrastructure (Azure/AWS)**, I deliver **modular**, **turnkey systems** optimized for **automation**, **scalability**, and **long-term maintainability**.
 
 ### SUMMARY OF SKILLS
 
@@ -22,9 +22,9 @@
 
 ### PROFESSIONAL EXPERIENCE
 
-#### Adam Matthew Steinberger LLC | Greenville, SC
+#### The Vizius Group | Greenville, SC
 
-**Staff Software Engineer** | 03/2025 - Present
+**Senior Azure and AI Development Engineer** | 09/2025 - Present
 
 _AI Payroll Processor (GPT-5) - Enterprise Client_
 
@@ -36,6 +36,10 @@ _AI Payroll Processor (GPT-5) - Enterprise Client_
 - Provisioned **Azure cloud resources**, created **boilerplate repositories**, and documented all **permissions**, **keys**, and **resource requirements** for seamless team onboarding.
 - Decomposed the entire project into a **comprehensive JIRA Scrum board** (Epics, Features, User Stories), enabling **junior developers** to execute independently with minimal oversight.
 - Delivered a **turnkey solution** designed for handoff, empowering client teams to build and maintain the system cost-effectively without ongoing senior-level dependency.
+
+#### Adam Matthew Steinberger LLC | Greenville, SC
+
+**Senior Software Engineering Consultant** | 03/2025 - 08/2025
 
 _Local AI Infrastructure & Self-Hosted RAG Chatbot (Mistral-7B) - Non-Profit Client_
 
@@ -52,6 +56,7 @@ _Custom Cloud-Based RAG Chatbot (Gemini) - Sales Agency Client_
 - Optimized content, metadata, and chatbot behavior specifically for **sales** and **engagement** use cases, including **custom instructions** and **SEO targeting** for chatbot services.
 
 _Push Notification System (Claude) - Non-Profit Client_
+
 - Delivered **production-ready Web Push notification** with 159/159 passing tests and 85.84% test coverage using AI-assisted TDD methodology.
 - Engineered **enterprise features** including timezone-aware scheduling (30-min delivery windows), intelligent message personalization based on user activity, and VAPID end-to-end encryption.
 - Implemented **automated subscription cleanup**, Row-Level Security policies, and serverless Edge Functions with **hourly cron scheduling**.
@@ -60,6 +65,7 @@ _Push Notification System (Claude) - Non-Profit Client_
 - Created **strategic AI workflow** combining codebase analysis, prompt engineering, and rigorous human code review for enterprise reliability.
 
 _Code Review & Architecture Redesign (Claude) - Non-Profit Client_
+
 - Conducted **comprehensive codebase analysis** using Claude Code full-scan followed by expert human review, assessing 190+ documentation files, 35 React pages, and 59K-line monolithic backend files.
 - Delivered **three strategic reports**: technical analysis (B- grade, 75/100), executive summary translating technical debt to ministry impact, and detailed Onion Architecture refactor plan with 400+ hour effort estimate.
 - **Identified critical issues** including 5% test coverage (vs. 60-80% industry standard), incomplete TypeScript adoption (40%), missing backend authentication middleware, and 16 manual maintenance scripts.
@@ -79,27 +85,27 @@ _Code Review & Architecture Redesign (Claude) - Non-Profit Client_
 
 ### EARLY CAREER
 
-**Transcat, Inc.** – Senior Software Engineer (04/2022-01/2023)
+**Transcat, Inc.** - Senior Software Engineer (04/2022-01/2023)
 
 - Led team delivering .NET Web APIs and React app for lab equipment calibration; integrated internal systems and enhanced Magento-based e-commerce platform.
 
-**LeaseTrack, Inc.** – Senior Software Engineer (06/2021-04/2022)
+**LeaseTrack, Inc.** - Senior Software Engineer (06/2021-04/2022)
 
 - Built Python + AWS Textract ML tools for insurance document parsing; developed Java Spring Boot annotation system for ML training workflows.
 
-**Akmazio LLC** – Senior Software Engineer (05/2020-05/2021)
+**Akmazio LLC** - Senior Software Engineer (05/2020-05/2021)
 
 - Led Agile development for mobile networking platform; built C#/.NET backend with MS SQL, deployed to DigitalOcean.
 
-**Bestpass, Inc.** – Software Engineer (09/2019-04/2020)
+**Bestpass, Inc.** - Software Engineer (09/2019-04/2020)
 
 - Delivered toll billing system using C# MVC and Knockout.js; introduced automated unit testing for legacy codebase.
 
-**New York State Insurance Fund** – Software Engineer (03/2015-08/2019)
+**New York State Insurance Fund** - Software Engineer (03/2015-08/2019)
 
 - Migrated legacy systems (VB6 to C# MVC), refactored Oracle EDI integrations, mentored junior developers, and standardized engineering processes.
 
-**Town & Country Computer Services** – Junior Software Engineer (07/2013-03/2015)
+**Town & Country Computer Services** - Junior Software Engineer (07/2013-03/2015)
 
 - Built C# ASP.NET web applications for insurance quoting, rating, and reporting systems.
 
